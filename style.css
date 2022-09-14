@@ -1,0 +1,22 @@
+.personaje{
+    font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+    color: red;
+    font-size: 40px;
+}
+
+.card{
+    background-color: rgb(246, 244, 212);
+}
+
+body{
+    background-color: rgba(234, 1, 255, 0.386);
+}
+
+.card-text{
+    font-family: 'Courier', monospace;
+}
+
+.card-title{
+    font-family: 'Impact', fantasy;
+    font-size: 50px;
+}
